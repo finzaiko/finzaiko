@@ -1,7 +1,7 @@
 ### Hello.. 👋
 I'm Arifin, a Web and Mobile programmer
 
-Skills: Linux, Java, PHP, JS, Dart, Flutter, SQL.
+Skills: Linux, Java, Php, JS, Dart, Flutter, SQL and other related tech.
 
 <!--
 **finzaiko/finzaiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
