@@ -1,9 +1,9 @@
 ### Hello.. 👋
-I'm Arifin, a Web and Mobile programmer
-
+I'm Arifin, Web and Mobile programmer
+<!--
 Skills: Linux, Java, Php, JS, Dart, Flutter, SQL and other related tech.
 
-<!--
+
 **finzaiko/finzaiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
