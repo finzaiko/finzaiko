@@ -1,5 +1,5 @@
 ### Hello.. 👋
-I'm Arifin, Web and Mobile programmer
+I'm a Web and Mobile programmer
 <!--
 Skills: Linux, Java, Php, JS, Dart, Flutter, SQL and other related tech.
 
